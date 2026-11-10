@@ -1,0 +1,1364 @@
+[
+ {
+  "id": "coco_46497",
+  "coco_val2017_file": "000000046497.jpg",
+  "question": "How many people are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_58384",
+  "coco_val2017_file": "000000058384.jpg",
+  "question": "How many elephants are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_506310",
+  "coco_val2017_file": "000000506310.jpg",
+  "question": "How many bottles are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_470779",
+  "coco_val2017_file": "000000470779.jpg",
+  "question": "How many people are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_85823",
+  "coco_val2017_file": "000000085823.jpg",
+  "question": "How many zebras are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_171298",
+  "coco_val2017_file": "000000171298.jpg",
+  "question": "How many buses are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_148957",
+  "coco_val2017_file": "000000148957.jpg",
+  "question": "How many donuts are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_64359",
+  "coco_val2017_file": "000000064359.jpg",
+  "question": "How many giraffes are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_123131",
+  "coco_val2017_file": "000000123131.jpg",
+  "question": "How many trucks are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_140556",
+  "coco_val2017_file": "000000140556.jpg",
+  "question": "How many people are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_174371",
+  "coco_val2017_file": "000000174371.jpg",
+  "question": "How many people are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_428867",
+  "coco_val2017_file": "000000428867.jpg",
+  "question": "How many teddy bears are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_228144",
+  "coco_val2017_file": "000000228144.jpg",
+  "question": "How many chairs are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_380706",
+  "coco_val2017_file": "000000380706.jpg",
+  "question": "How many people are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_262938",
+  "coco_val2017_file": "000000262938.jpg",
+  "question": "How many dogs are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_297022",
+  "coco_val2017_file": "000000297022.jpg",
+  "question": "How many people are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_528399",
+  "coco_val2017_file": "000000528399.jpg",
+  "question": "How many cups are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_447088",
+  "coco_val2017_file": "000000447088.jpg",
+  "question": "How many people are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_481582",
+  "coco_val2017_file": "000000481582.jpg",
+  "question": "How many people are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_519569",
+  "coco_val2017_file": "000000519569.jpg",
+  "question": "How many chairs are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_376093",
+  "coco_val2017_file": "000000376093.jpg",
+  "question": "How many people are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_67213",
+  "coco_val2017_file": "000000067213.jpg",
+  "question": "How many cars are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_189475",
+  "coco_val2017_file": "000000189475.jpg",
+  "question": "How many cups are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_465806",
+  "coco_val2017_file": "000000465806.jpg",
+  "question": "How many people are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_289222",
+  "coco_val2017_file": "000000289222.jpg",
+  "question": "How many traffic lights are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_123633",
+  "coco_val2017_file": "000000123633.jpg",
+  "question": "How many people are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_568195",
+  "coco_val2017_file": "000000568195.jpg",
+  "question": "How many people are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_144003",
+  "coco_val2017_file": "000000144003.jpg",
+  "question": "How many people are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_34873",
+  "coco_val2017_file": "000000034873.jpg",
+  "question": "How many chairs are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_82688",
+  "coco_val2017_file": "000000082688.jpg",
+  "question": "How many people are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_563702",
+  "coco_val2017_file": "000000563702.jpg",
+  "question": "How many trucks are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_547502",
+  "coco_val2017_file": "000000547502.jpg",
+  "question": "How many dogs are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_336658",
+  "coco_val2017_file": "000000336658.jpg",
+  "question": "How many buses are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_369081",
+  "coco_val2017_file": "000000369081.jpg",
+  "question": "How many horses are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_404922",
+  "coco_val2017_file": "000000404922.jpg",
+  "question": "How many people are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_6763",
+  "coco_val2017_file": "000000006763.jpg",
+  "question": "How many people are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_31817",
+  "coco_val2017_file": "000000031817.jpg",
+  "question": "How many people are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_78404",
+  "coco_val2017_file": "000000078404.jpg",
+  "question": "How many people are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_54605",
+  "coco_val2017_file": "000000054605.jpg",
+  "question": "How many people are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_136915",
+  "coco_val2017_file": "000000136915.jpg",
+  "question": "How many people are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_279730",
+  "coco_val2017_file": "000000279730.jpg",
+  "question": "How many people are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_18575",
+  "coco_val2017_file": "000000018575.jpg",
+  "question": "How many bottles are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_42628",
+  "coco_val2017_file": "000000042628.jpg",
+  "question": "How many people are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_388927",
+  "coco_val2017_file": "000000388927.jpg",
+  "question": "How many people are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_477288",
+  "coco_val2017_file": "000000477288.jpg",
+  "question": "How many umbrellas are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_286849",
+  "coco_val2017_file": "000000286849.jpg",
+  "question": "How many giraffes are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_399462",
+  "coco_val2017_file": "000000399462.jpg",
+  "question": "How many people are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_185599",
+  "coco_val2017_file": "000000185599.jpg",
+  "question": "How many oranges are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_329542",
+  "coco_val2017_file": "000000329542.jpg",
+  "question": "How many cakes are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_193743",
+  "coco_val2017_file": "000000193743.jpg",
+  "question": "How many people are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_61171",
+  "coco_val2017_file": "000000061171.jpg",
+  "question": "How many cows are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_493284",
+  "coco_val2017_file": "000000493284.jpg",
+  "question": "How many elephants are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_521141",
+  "coco_val2017_file": "000000521141.jpg",
+  "question": "How many people are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_447313",
+  "coco_val2017_file": "000000447313.jpg",
+  "question": "How many zebras are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_329447",
+  "coco_val2017_file": "000000329447.jpg",
+  "question": "How many cows are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_343218",
+  "coco_val2017_file": "000000343218.jpg",
+  "question": "How many cars are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_556000",
+  "coco_val2017_file": "000000556000.jpg",
+  "question": "How many people are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_244750",
+  "coco_val2017_file": "000000244750.jpg",
+  "question": "How many people are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_502599",
+  "coco_val2017_file": "000000502599.jpg",
+  "question": "How many airplanes are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_86582",
+  "coco_val2017_file": "000000086582.jpg",
+  "question": "How many potted plants are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_370270",
+  "coco_val2017_file": "000000370270.jpg",
+  "question": "How many people are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_314182",
+  "coco_val2017_file": "000000314182.jpg",
+  "question": "How many bowls are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_301867",
+  "coco_val2017_file": "000000301867.jpg",
+  "question": "How many people are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_8629",
+  "coco_val2017_file": "000000008629.jpg",
+  "question": "How many pizzas are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_54628",
+  "coco_val2017_file": "000000054628.jpg",
+  "question": "How many cakes are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_478136",
+  "coco_val2017_file": "000000478136.jpg",
+  "question": "How many cakes are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_509735",
+  "coco_val2017_file": "000000509735.jpg",
+  "question": "How many zebras are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_358923",
+  "coco_val2017_file": "000000358923.jpg",
+  "question": "How many people are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_468632",
+  "coco_val2017_file": "000000468632.jpg",
+  "question": "How many people are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_395343",
+  "coco_val2017_file": "000000395343.jpg",
+  "question": "How many vases are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_507975",
+  "coco_val2017_file": "000000507975.jpg",
+  "question": "How many horses are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_541634",
+  "coco_val2017_file": "000000541634.jpg",
+  "question": "How many cups are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_548246",
+  "coco_val2017_file": "000000548246.jpg",
+  "question": "How many people are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_125062",
+  "coco_val2017_file": "000000125062.jpg",
+  "question": "How many teddy bears are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_163640",
+  "coco_val2017_file": "000000163640.jpg",
+  "question": "How many people are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_537270",
+  "coco_val2017_file": "000000537270.jpg",
+  "question": "How many people are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_450202",
+  "coco_val2017_file": "000000450202.jpg",
+  "question": "How many wine glasses are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_11760",
+  "coco_val2017_file": "000000011760.jpg",
+  "question": "How many zebras are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_451879",
+  "coco_val2017_file": "000000451879.jpg",
+  "question": "How many people are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_280891",
+  "coco_val2017_file": "000000280891.jpg",
+  "question": "How many people are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_455157",
+  "coco_val2017_file": "000000455157.jpg",
+  "question": "How many benches are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_177861",
+  "coco_val2017_file": "000000177861.jpg",
+  "question": "How many people are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_484893",
+  "coco_val2017_file": "000000484893.jpg",
+  "question": "How many sheep are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_110638",
+  "coco_val2017_file": "000000110638.jpg",
+  "question": "How many elephants are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_31248",
+  "coco_val2017_file": "000000031248.jpg",
+  "question": "How many chairs are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_348488",
+  "coco_val2017_file": "000000348488.jpg",
+  "question": "How many horses are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_45472",
+  "coco_val2017_file": "000000045472.jpg",
+  "question": "How many cups are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_179898",
+  "coco_val2017_file": "000000179898.jpg",
+  "question": "How many chairs are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_119641",
+  "coco_val2017_file": "000000119641.jpg",
+  "question": "How many elephants are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_7108",
+  "coco_val2017_file": "000000007108.jpg",
+  "question": "How many elephants are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_449312",
+  "coco_val2017_file": "000000449312.jpg",
+  "question": "How many donuts are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_49761",
+  "coco_val2017_file": "000000049761.jpg",
+  "question": "How many zebras are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_441247",
+  "coco_val2017_file": "000000441247.jpg",
+  "question": "How many chairs are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_90208",
+  "coco_val2017_file": "000000090208.jpg",
+  "question": "How many buses are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_14226",
+  "coco_val2017_file": "000000014226.jpg",
+  "question": "How many chairs are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_436617",
+  "coco_val2017_file": "000000436617.jpg",
+  "question": "How many chairs are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_38829",
+  "coco_val2017_file": "000000038829.jpg",
+  "question": "How many motorcycles are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_68933",
+  "coco_val2017_file": "000000068933.jpg",
+  "question": "How many zebras are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_62353",
+  "coco_val2017_file": "000000062353.jpg",
+  "question": "How many giraffes are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_91779",
+  "coco_val2017_file": "000000091779.jpg",
+  "question": "How many hot dogs are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_451150",
+  "coco_val2017_file": "000000451150.jpg",
+  "question": "How many donuts are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_268729",
+  "coco_val2017_file": "000000268729.jpg",
+  "question": "How many zebras are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_78748",
+  "coco_val2017_file": "000000078748.jpg",
+  "question": "How many motorcycles are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_218424",
+  "coco_val2017_file": "000000218424.jpg",
+  "question": "How many zebras are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_119038",
+  "coco_val2017_file": "000000119038.jpg",
+  "question": "How many cows are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_408830",
+  "coco_val2017_file": "000000408830.jpg",
+  "question": "How many motorcycles are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_60823",
+  "coco_val2017_file": "000000060823.jpg",
+  "question": "How many cows are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_454661",
+  "coco_val2017_file": "000000454661.jpg",
+  "question": "How many cars are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_377814",
+  "coco_val2017_file": "000000377814.jpg",
+  "question": "How many donuts are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_217948",
+  "coco_val2017_file": "000000217948.jpg",
+  "question": "How many bears are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_261061",
+  "coco_val2017_file": "000000261061.jpg",
+  "question": "How many potted plants are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_398377",
+  "coco_val2017_file": "000000398377.jpg",
+  "question": "How many handbags are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_16249",
+  "coco_val2017_file": "000000016249.jpg",
+  "question": "How many benches are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_70158",
+  "coco_val2017_file": "000000070158.jpg",
+  "question": "How many zebras are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_474881",
+  "coco_val2017_file": "000000474881.jpg",
+  "question": "How many sheep are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_436738",
+  "coco_val2017_file": "000000436738.jpg",
+  "question": "How many cars are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_575970",
+  "coco_val2017_file": "000000575970.jpg",
+  "question": "How many chairs are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_405972",
+  "coco_val2017_file": "000000405972.jpg",
+  "question": "How many elephants are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_28449",
+  "coco_val2017_file": "000000028449.jpg",
+  "question": "How many elephants are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_107851",
+  "coco_val2017_file": "000000107851.jpg",
+  "question": "How many elephants are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_123585",
+  "coco_val2017_file": "000000123585.jpg",
+  "question": "How many birds are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_335081",
+  "coco_val2017_file": "000000335081.jpg",
+  "question": "How many teddy bears are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_376278",
+  "coco_val2017_file": "000000376278.jpg",
+  "question": "How many zebras are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_574702",
+  "coco_val2017_file": "000000574702.jpg",
+  "question": "How many motorcycles are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_410735",
+  "coco_val2017_file": "000000410735.jpg",
+  "question": "How many bowls are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_109798",
+  "coco_val2017_file": "000000109798.jpg",
+  "question": "How many donuts are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_776",
+  "coco_val2017_file": "000000000776.jpg",
+  "question": "How many teddy bears are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_300039",
+  "coco_val2017_file": "000000300039.jpg",
+  "question": "How many cups are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_167128",
+  "coco_val2017_file": "000000167128.jpg",
+  "question": "How many elephants are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_233567",
+  "coco_val2017_file": "000000233567.jpg",
+  "question": "How many sheep are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_382743",
+  "coco_val2017_file": "000000382743.jpg",
+  "question": "How many umbrellas are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_445248",
+  "coco_val2017_file": "000000445248.jpg",
+  "question": "How many elephants are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_492758",
+  "coco_val2017_file": "000000492758.jpg",
+  "question": "How many chairs are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_235836",
+  "coco_val2017_file": "000000235836.jpg",
+  "question": "How many chairs are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_273551",
+  "coco_val2017_file": "000000273551.jpg",
+  "question": "How many motorcycles are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_157418",
+  "coco_val2017_file": "000000157418.jpg",
+  "question": "How many bowls are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_328030",
+  "coco_val2017_file": "000000328030.jpg",
+  "question": "How many teddy bears are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_2157",
+  "coco_val2017_file": "000000002157.jpg",
+  "question": "How many knives are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_25386",
+  "coco_val2017_file": "000000025386.jpg",
+  "question": "How many chairs are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_92053",
+  "coco_val2017_file": "000000092053.jpg",
+  "question": "How many bowls are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_308545",
+  "coco_val2017_file": "000000308545.jpg",
+  "question": "How many horses are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_136715",
+  "coco_val2017_file": "000000136715.jpg",
+  "question": "How many motorcycles are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_132408",
+  "coco_val2017_file": "000000132408.jpg",
+  "question": "How many horses are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_506656",
+  "coco_val2017_file": "000000506656.jpg",
+  "question": "How many horses are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_116589",
+  "coco_val2017_file": "000000116589.jpg",
+  "question": "How many zebras are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_198960",
+  "coco_val2017_file": "000000198960.jpg",
+  "question": "How many sheep are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_64084",
+  "coco_val2017_file": "000000064084.jpg",
+  "question": "How many sandwiches are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_221281",
+  "coco_val2017_file": "000000221281.jpg",
+  "question": "How many giraffes are there?",
+  "count": 3
+ },
+ {
+  "id": "coco_577149",
+  "coco_val2017_file": "000000577149.jpg",
+  "question": "How many zebras are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_283070",
+  "coco_val2017_file": "000000283070.jpg",
+  "question": "How many oranges are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_23937",
+  "coco_val2017_file": "000000023937.jpg",
+  "question": "How many cows are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_526728",
+  "coco_val2017_file": "000000526728.jpg",
+  "question": "How many suitcases are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_206135",
+  "coco_val2017_file": "000000206135.jpg",
+  "question": "How many cows are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_5992",
+  "coco_val2017_file": "000000005992.jpg",
+  "question": "How many sheep are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_132329",
+  "coco_val2017_file": "000000132329.jpg",
+  "question": "How many bottles are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_492110",
+  "coco_val2017_file": "000000492110.jpg",
+  "question": "How many chairs are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_114049",
+  "coco_val2017_file": "000000114049.jpg",
+  "question": "How many suitcases are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_534605",
+  "coco_val2017_file": "000000534605.jpg",
+  "question": "How many motorcycles are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_121744",
+  "coco_val2017_file": "000000121744.jpg",
+  "question": "How many tennis rackets are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_452321",
+  "coco_val2017_file": "000000452321.jpg",
+  "question": "How many buses are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_331817",
+  "coco_val2017_file": "000000331817.jpg",
+  "question": "How many bowls are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_383289",
+  "coco_val2017_file": "000000383289.jpg",
+  "question": "How many cars are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_66038",
+  "coco_val2017_file": "000000066038.jpg",
+  "question": "How many umbrellas are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_465180",
+  "coco_val2017_file": "000000465180.jpg",
+  "question": "How many elephants are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_491090",
+  "coco_val2017_file": "000000491090.jpg",
+  "question": "How many motorcycles are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_21503",
+  "coco_val2017_file": "000000021503.jpg",
+  "question": "How many sandwiches are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_140076",
+  "coco_val2017_file": "000000140076.jpg",
+  "question": "How many chairs are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_548506",
+  "coco_val2017_file": "000000548506.jpg",
+  "question": "How many apples are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_33854",
+  "coco_val2017_file": "000000033854.jpg",
+  "question": "How many motorcycles are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_157365",
+  "coco_val2017_file": "000000157365.jpg",
+  "question": "How many cars are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_156292",
+  "coco_val2017_file": "000000156292.jpg",
+  "question": "How many clocks are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_504074",
+  "coco_val2017_file": "000000504074.jpg",
+  "question": "How many chairs are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_534827",
+  "coco_val2017_file": "000000534827.jpg",
+  "question": "How many motorcycles are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_246963",
+  "coco_val2017_file": "000000246963.jpg",
+  "question": "How many motorcycles are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_571804",
+  "coco_val2017_file": "000000571804.jpg",
+  "question": "How many bowls are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_170670",
+  "coco_val2017_file": "000000170670.jpg",
+  "question": "How many bowls are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_166259",
+  "coco_val2017_file": "000000166259.jpg",
+  "question": "How many birds are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_417608",
+  "coco_val2017_file": "000000417608.jpg",
+  "question": "How many chairs are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_258911",
+  "coco_val2017_file": "000000258911.jpg",
+  "question": "How many cows are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_479126",
+  "coco_val2017_file": "000000479126.jpg",
+  "question": "How many chairs are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_69106",
+  "coco_val2017_file": "000000069106.jpg",
+  "question": "How many zebras are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_492878",
+  "coco_val2017_file": "000000492878.jpg",
+  "question": "How many cups are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_391144",
+  "coco_val2017_file": "000000391144.jpg",
+  "question": "How many elephants are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_526706",
+  "coco_val2017_file": "000000526706.jpg",
+  "question": "How many cows are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_320632",
+  "coco_val2017_file": "000000320632.jpg",
+  "question": "How many zebras are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_229997",
+  "coco_val2017_file": "000000229997.jpg",
+  "question": "How many birds are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_272364",
+  "coco_val2017_file": "000000272364.jpg",
+  "question": "How many giraffes are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_416758",
+  "coco_val2017_file": "000000416758.jpg",
+  "question": "How many cows are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_369370",
+  "coco_val2017_file": "000000369370.jpg",
+  "question": "How many sandwiches are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_181816",
+  "coco_val2017_file": "000000181816.jpg",
+  "question": "How many potted plants are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_553669",
+  "coco_val2017_file": "000000553669.jpg",
+  "question": "How many cars are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_74209",
+  "coco_val2017_file": "000000074209.jpg",
+  "question": "How many chairs are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_60855",
+  "coco_val2017_file": "000000060855.jpg",
+  "question": "How many oranges are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_253452",
+  "coco_val2017_file": "000000253452.jpg",
+  "question": "How many donuts are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_214224",
+  "coco_val2017_file": "000000214224.jpg",
+  "question": "How many bottles are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_211120",
+  "coco_val2017_file": "000000211120.jpg",
+  "question": "How many teddy bears are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_281759",
+  "coco_val2017_file": "000000281759.jpg",
+  "question": "How many umbrellas are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_456015",
+  "coco_val2017_file": "000000456015.jpg",
+  "question": "How many horses are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_513041",
+  "coco_val2017_file": "000000513041.jpg",
+  "question": "How many wine glasses are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_286182",
+  "coco_val2017_file": "000000286182.jpg",
+  "question": "How many bowls are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_145020",
+  "coco_val2017_file": "000000145020.jpg",
+  "question": "How many teddy bears are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_94871",
+  "coco_val2017_file": "000000094871.jpg",
+  "question": "How many sheep are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_496571",
+  "coco_val2017_file": "000000496571.jpg",
+  "question": "How many cups are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_492282",
+  "coco_val2017_file": "000000492282.jpg",
+  "question": "How many horses are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_578871",
+  "coco_val2017_file": "000000578871.jpg",
+  "question": "How many bowls are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_181542",
+  "coco_val2017_file": "000000181542.jpg",
+  "question": "How many motorcycles are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_239627",
+  "coco_val2017_file": "000000239627.jpg",
+  "question": "How many cups are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_135410",
+  "coco_val2017_file": "000000135410.jpg",
+  "question": "How many cars are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_207585",
+  "coco_val2017_file": "000000207585.jpg",
+  "question": "How many teddy bears are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_561465",
+  "coco_val2017_file": "000000561465.jpg",
+  "question": "How many donuts are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_66841",
+  "coco_val2017_file": "000000066841.jpg",
+  "question": "How many spoons are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_564336",
+  "coco_val2017_file": "000000564336.jpg",
+  "question": "How many chairs are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_325838",
+  "coco_val2017_file": "000000325838.jpg",
+  "question": "How many chairs are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_372819",
+  "coco_val2017_file": "000000372819.jpg",
+  "question": "How many dogs are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_210520",
+  "coco_val2017_file": "000000210520.jpg",
+  "question": "How many cups are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_129756",
+  "coco_val2017_file": "000000129756.jpg",
+  "question": "How many sheep are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_173004",
+  "coco_val2017_file": "000000173004.jpg",
+  "question": "How many pizzas are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_13923",
+  "coco_val2017_file": "000000013923.jpg",
+  "question": "How many chairs are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_419653",
+  "coco_val2017_file": "000000419653.jpg",
+  "question": "How many bowls are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_233033",
+  "coco_val2017_file": "000000233033.jpg",
+  "question": "How many chairs are there?",
+  "count": 4
+ },
+ {
+  "id": "coco_136355",
+  "coco_val2017_file": "000000136355.jpg",
+  "question": "How many potted plants are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_467315",
+  "coco_val2017_file": "000000467315.jpg",
+  "question": "How many chairs are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_249129",
+  "coco_val2017_file": "000000249129.jpg",
+  "question": "How many chairs are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_572678",
+  "coco_val2017_file": "000000572678.jpg",
+  "question": "How many chairs are there?",
+  "count": 6
+ },
+ {
+  "id": "coco_192871",
+  "coco_val2017_file": "000000192871.jpg",
+  "question": "How many oranges are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_205514",
+  "coco_val2017_file": "000000205514.jpg",
+  "question": "How many chairs are there?",
+  "count": 5
+ },
+ {
+  "id": "coco_215114",
+  "coco_val2017_file": "000000215114.jpg",
+  "question": "How many bottles are there?",
+  "count": 5
+ }
+]

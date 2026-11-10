@@ -1,0 +1,48 @@
+{
+ "written": "2026-10-03T15:12:31",
+ "purpose": "OCID robot-camera +1 pairs: do the public pruners keep the object count that the full model reads, and does one added object move their answer by exactly one?",
+ "fixed_before_the_run": {
+  "question": {
+   "table": "How many objects are on the table?",
+   "floor": "How many objects are on the floor?"
+  },
+  "k_max": 10,
+  "budgets": [
+   64,
+   128,
+   256
+  ],
+  "vz_split": {
+   "64": [
+    54,
+    10
+   ],
+   "128": [
+    102,
+    26
+   ],
+   "256": [
+    204,
+    52
+   ]
+  },
+  "ocvtp_seeds": [
+   0,
+   1,
+   2
+  ],
+  "truth": "number of object ids in the label mask; planes floor = {1}, table = {1, 2}; one sequence with ids + 255 normalised; pairs = consecutive frames with counts differing by one",
+  "scoring": "phase1 count rule (common.is_correct); reference = F576 right on the frame; pairs = consecutive frames of one sequence and camera",
+  "clusters": "scene = subset/location/sequence (both cameras)"
+ },
+ "primary": {
+  "H1": "at 64 tokens each of DivPrune, VisionZip and OC-VTP (seed mean) breaks >= 30 % of the frames F576 gets right (P[wrong | F576 right], lower bound of the 95 % CI above 0.30 counts as a clear pass; point estimate above 0.30 as a pass)",
+  "H2": "on reference-correct pairs, the share answered exactly +1 is lower at 64 tokens than for F576 for each method (paired difference, CI excludes 0)"
+ },
+ "secondary": [
+  "recovery at 128 and 256 tokens",
+  "under- vs over-count shares by true count",
+  "objects without a kept patch vs breaks (coverage diagnostic, DivPrune and OC-VTP kept sets)"
+ ],
+ "no_tuning": "no prompt, threshold or subset is chosen after seeing compressed answers; the k range reported is the one where F576 is right on >= 50 % of the frames, decided from F576 alone"
+}

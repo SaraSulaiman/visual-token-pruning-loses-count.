@@ -1,0 +1,23 @@
+{
+ "written": "2026-10-07T14:19:23",
+ "purpose": "Position control for the PaliGemma trained-vs-cut gap: give the SAME kept tokens their original positions instead of compacted ones. If compaction caused the loss, restoring positions should recover the counts.",
+ "fixed_before_the_run": {
+  "conditions": {
+   "PG448_DP256 / PG448_RAND256 / PG448_POOL256": "re-run on this machine with compacted positions, exactly as before, so the position arms are paired on the same hardware; agreement with the earlier answers reported",
+   "PG448_DP256_POS / PG448_RAND256_POS": "identical kept tokens (DivPrune is deterministic; random uses the seed key of the compacted arm); kept grid token j keeps the position it has in the full 1024-token prompt, and the text keeps its full-prompt positions",
+   "PG448_POOL256_POS": "pooled token (a, b) of the 16 x 16 grid takes the position of the top-left patch of its 2 x 2 block in the 32 x 32 grid; text as above"
+  },
+  "decoding": "a manual greedy loop (max 10 new tokens) that passes position ids explicitly; checks before the run: with all 1024 tokens and standard positions it must reproduce the processor path, and with compacted positions it must reproduce model.generate on the pruned path, each on 20 questions, else the run stops",
+  "items": "coco227 and ocid first, then vqa",
+  "scoring": "pg_pairs.score_sets; REF = PG448_FULL1024 and the trained arm PG224_NATIVE256 from the earlier run"
+ },
+ "primary": {
+  "B1": "photos: paired break-rate difference PG448_DP256_POS minus PG224_NATIVE256 is positive with the 95 % CI excluding 0 (restoring positions does not close the gap)"
+ },
+ "secondary": [
+  "B2: X_POS minus X (compacted, this run), paired: break rate on photos and +1 exactness on all in-range OCID pairs, X in DP256 / RAND256 / POOL256",
+  "B3: RAND256_POS and POOL256_POS minus PG224_NATIVE256 on photos"
+ ],
+ "decision": "B1 met -> the limitation 'we did not repeat that test on PaliGemma' is replaced by the result; B1 not met and B2 shows recovery with the CI excluding 0 -> the paper says position compaction explains part of the gap",
+ "no_tuning": "no prompt, threshold, subset or position convention is changed after any answer of this run is seen"
+}

@@ -1,0 +1,29 @@
+{
+ "written": "2026-10-07T14:19:23",
+ "purpose": "Second trained-vs-cut pair, in OpenVLA's own backbone family: does the Prismatic VLM trained at 256 image tokens (prism-dinosiglip-224px+7b) keep the object count that its 729-token sibling (prism-dinosiglip+7b, 384 px) loses when cut to 256 tokens after training? Per the released config.json files the two differ only in vision resolution (same llama2-7b-pure LLM, llava-lvis4v-lrv data, 2 epochs, batch 128, lr 2e-5, fused-gelu-mlp projector, resize-naive).",
+ "fixed_before_the_run": {
+  "conditions": {
+   "OV384_FULL729": "prism-dinosiglip+7b, all 729 projected patch tokens: the reference of the 384 family",
+   "OV384_DP256": "DivPrune, the same rule as pg_pairs.divprune_indices (fp32 cosine), raster order",
+   "OV384_RAND256": "256 random tokens, fixed seed per question",
+   "OV384_POOL256": "adaptive average pooling of the 27 x 27 token grid to 16 x 16 (2 x 2 pooling does not divide 27)",
+   "OV224_NATIVE256": "prism-dinosiglip-224px+7b, all 256 tokens (trained at this budget); re-run in the same environment, agreement with the earlier OVLA_FULL256 answers reported"
+  },
+  "items": "sets.json: coco227 (227 photos), ocid (1,870 frames), vqa (5,208 questions); prompt = Prismatic prompt builder + the short-answer suffix of ovla_pairs.py; greedy; max 10 new tokens",
+  "scoring": "pg_pairs.score_sets with REF = OV384_FULL729; counting by the first integer or number word; VQAv2 by the vendored official evaluator",
+  "ocid_range": "counts where OV384_FULL729 is right on >= 50 % of frames, decided from OV384_FULL729 alone",
+  "statistics": "95 % cluster bootstrap, B = 10,000, seed 0; photos clustered by image, OCID by scene (both cameras)",
+  "path_check": "the wrapper returning all tokens reproduces the unwrapped model on 20 questions per model, else the run stops"
+ },
+ "gate": "OV384_FULL729 answers at least 80 of the 227 photos correctly; otherwise the photo comparison is reported descriptively only",
+ "primary": {
+  "P1": "photos: paired break-rate difference, cut arm minus OV224_NATIVE256, over the photos OV384_FULL729 gets right, is positive with the 95 % CI excluding 0 for at least two of OV384_DP256 / OV384_POOL256 / OV384_RAND256, and positive as a point estimate for all three (PaliGemma: +19.9, +23.5, +12.5)"
+ },
+ "secondary": [
+  "S1 OCID, all in-range pairs: +1 exactness of OV224_NATIVE256 minus each cut arm (paired); each arm and OV224_NATIVE256 minus OV384_FULL729",
+  "S2 VQAv2: OV224_NATIVE256 minus each cut arm, official accuracy",
+  "S3 agreement of the OV224_NATIVE256 re-run with the earlier OVLA_FULL256 answers"
+ ],
+ "decision": "P1 met -> the paper reports the trained-vs-cut result in two families; P1 not met -> the claim is stated for PaliGemma only and this pair is reported as a non-replication",
+ "no_tuning": "no prompt, threshold, subset or pooling choice is changed after any compressed answer of this run is seen"
+}

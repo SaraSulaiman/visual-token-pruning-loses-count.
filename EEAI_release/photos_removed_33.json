@@ -1,0 +1,200 @@
+[
+ {
+  "id": "coco_298396",
+  "coco_val2017_file": "000000298396.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_95707",
+  "coco_val2017_file": "000000095707.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_221872",
+  "coco_val2017_file": "000000221872.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_12062",
+  "coco_val2017_file": "000000012062.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_13659",
+  "coco_val2017_file": "000000013659.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_356427",
+  "coco_val2017_file": "000000356427.jpg",
+  "count_confirmed": null,
+  "masks_confirmed": null
+ },
+ {
+  "id": "coco_361238",
+  "coco_val2017_file": "000000361238.jpg",
+  "count_confirmed": null,
+  "masks_confirmed": null
+ },
+ {
+  "id": "coco_244833",
+  "coco_val2017_file": "000000244833.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_426372",
+  "coco_val2017_file": "000000426372.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_351810",
+  "coco_val2017_file": "000000351810.jpg",
+  "count_confirmed": null,
+  "masks_confirmed": null
+ },
+ {
+  "id": "coco_468925",
+  "coco_val2017_file": "000000468925.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_459437",
+  "coco_val2017_file": "000000459437.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_28809",
+  "coco_val2017_file": "000000028809.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_8844",
+  "coco_val2017_file": "000000008844.jpg",
+  "count_confirmed": null,
+  "masks_confirmed": null
+ },
+ {
+  "id": "coco_377670",
+  "coco_val2017_file": "000000377670.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_89556",
+  "coco_val2017_file": "000000089556.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_240250",
+  "coco_val2017_file": "000000240250.jpg",
+  "count_confirmed": null,
+  "masks_confirmed": null
+ },
+ {
+  "id": "coco_139260",
+  "coco_val2017_file": "000000139260.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_351530",
+  "coco_val2017_file": "000000351530.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_292446",
+  "coco_val2017_file": "000000292446.jpg",
+  "count_confirmed": null,
+  "masks_confirmed": null
+ },
+ {
+  "id": "coco_369757",
+  "coco_val2017_file": "000000369757.jpg",
+  "count_confirmed": null,
+  "masks_confirmed": null
+ },
+ {
+  "id": "coco_334371",
+  "coco_val2017_file": "000000334371.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_162092",
+  "coco_val2017_file": "000000162092.jpg",
+  "count_confirmed": null,
+  "masks_confirmed": null
+ },
+ {
+  "id": "coco_75393",
+  "coco_val2017_file": "000000075393.jpg",
+  "count_confirmed": null,
+  "masks_confirmed": null
+ },
+ {
+  "id": "coco_417632",
+  "coco_val2017_file": "000000417632.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_476787",
+  "coco_val2017_file": "000000476787.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_165351",
+  "coco_val2017_file": "000000165351.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_150224",
+  "coco_val2017_file": "000000150224.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_231527",
+  "coco_val2017_file": "000000231527.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_271471",
+  "coco_val2017_file": "000000271471.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_173371",
+  "coco_val2017_file": "000000173371.jpg",
+  "count_confirmed": true,
+  "masks_confirmed": null
+ },
+ {
+  "id": "coco_425221",
+  "coco_val2017_file": "000000425221.jpg",
+  "count_confirmed": false,
+  "masks_confirmed": false
+ },
+ {
+  "id": "coco_108253",
+  "coco_val2017_file": "000000108253.jpg",
+  "count_confirmed": null,
+  "masks_confirmed": null
+ }
+]
